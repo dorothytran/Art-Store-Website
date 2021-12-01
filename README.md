@@ -1,30 +1,25 @@
 # Art-Web-Store
 
+
 ## SYSC4504 Assignment 3: PHP, SQL, State, Caching
+
 ![](Start/Capture3.PNG)
-Contact Information:
-Name: Dorothy Tran 
-Student ID: 101141902
+
 
 ### DESCRIPTION
-This simple art store web application uses server-side programming with PHP, SQL, State Management, and Caching
-
+This simple art store web application uses server-side programming with PHP, SQL, State Management, and Caching.
 The web application consists of various main .php files:
-----------------------------------
 * addToFavorites.php
 * browse-paintings.php
 * remove-favorites.php
 * single-painting.php
 * view-favorites.php
-----------------------------------
 
 The web application is supported by various include files in the includes folder:
-----------------------------------
 * art-classes.php
 * config.inc.php
 * header.inc.php
 * sql-database.inc.php
-----------------------------------
 
 ### INSTALLATION
 To successfully run the program, the user must have access to XAMPP & Memcached on a Windows/MacOS.
@@ -35,6 +30,7 @@ To successfully run the program, the user must have access to XAMPP & Memcached 
 	- Host (Local): localhost
 	- Password (use text field): mypassword
 	- Re-Type: mypassword
+
 
 ### USAGE
 1. Move the downloaded file into the directory path: C:\xampp\htdocs for the program to run.
@@ -51,13 +47,12 @@ browse-paintings.php
 --------------------
 * On the left Filters navigation tab, users will be able to filter through a list of Artists, Museums, and Shapes in the drop-downs which are populated from the SQL database provided. When clicking the filter button, the user will be able to view the filtered output list.
 * Users will be able to click on the actual painting that is displayed and will direct them to a single-painting.php file based on the Painting ID.
-* 
 
 
 * When the single painting display appears, users may view the title of the painting, artist, overall reviews, details, the museum it is placed in, the genre, the subject, the price and features of the painting.
 	- click on the actual painting 
 	- add to favorites
 
+
 ### LICENSE
-============
 Copyright 2021 Dorothy Tran. All rights reserved.
