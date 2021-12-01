@@ -1,5 +1,5 @@
 # Art-Web-Store
-===============================================
+
 SYSC4504 Assignment 3: PHP, SQL, State, Caching
 ===============================================
 Contact Information:
