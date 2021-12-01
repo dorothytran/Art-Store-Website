@@ -1,6 +1,6 @@
 # Art-Web-Store
 ## PHP, SQL, State Management & Caching
-![](Start/Capture3.PNG)
+![](Start/images/Capture3.PNG)
 
 ## DESCRIPTION
 This simple art store website uses server-side programming with PHP, SQL, State Management, and Caching to create a web art store to display various paintings from around the world. The website uses PHP and SQL to populate the website with paintings while giving functionality to the filter drop-down menus, state management to allow users to select their favourite paintings when clicking on a button, and caching to store data.
@@ -54,6 +54,7 @@ Users can interact with the web application by clicking parts of the web page th
 * Users may view the list of favorited paintings.
 * By selecting the 'Remove All Favorites' button, all paintings that have been favorited by the user will be removed from the list.
 
+![](Start/images/Capture4.PNG)
 
 ## LICENSE
 Copyright 2021 Dorothy Tran. All rights reserved.
