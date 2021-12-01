@@ -1,11 +1,6 @@
 # Art-Web-Store
-![](Start/Capture3.PNG)
-
 ## SYSC4504 Assignment 3: PHP, SQL, State, Caching
-
-Contact Information:
-Name: Dorothy Tran 
-Student ID: 101141902
+![](Start/Capture3.PNG)
 
 ### DESCRIPTION
 This simple art store web application uses server-side programming with PHP, SQL, State Management, and Caching
@@ -61,5 +56,4 @@ Users can interact with the web application by clicking parts of the web page th
 
 
 ### LICENSE
-============
 Copyright 2021 Dorothy Tran. All rights reserved.
