@@ -43,19 +43,19 @@ To successfully run the program, the user must have access to XAMPP & Memcached 
 Features of the Web Application:
 Users can interact with the web application by clicking parts of the web page that allows users to navigate throughout different web pages.
 
-##### browse-paintings.php
+```browse-paintings.php```
 * On the left Filters navigation tab, users will be able to filter through a list of Artists, Museums, and Shapes in the drop-downs which are populated from the SQL database provided. When clicking the filter button, the user will be able to view the filtered output list.
 * Users will be able to click on the actual painting that is displayed and will direct them to a single-painting.php file based on the Painting ID.
 * Users may click the heart icon under each painting as a favourite painting.
 * By selecting Favorites on the top-right corner of the page, the user will be directed to the page: view-favorites.php which will list their favorited paintings.
 
 
-##### single-painting.php
+```single-painting.php```
 * When the single painting display appears, users may view the title of the painting, artist, overall reviews, details, the museum it is placed in, the genre, the subject, the price and features of the painting.
 * Users may click the 'Add to Favourites' icon under each painting as a favourite painting.
 
 
-##### view-favorites.php
+```view-favorites.php```
 * Users may view the list of favorited paintings.
 * By selecting the 'Remove All Favorites' button, all paintings that have been favorited by the user will be removed from the list.
 
