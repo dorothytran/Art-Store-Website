@@ -1,5 +1,5 @@
 # Art-Web-Store
-## SYSC4504 Assignment 3: PHP, SQL, State, Caching
+## PHP, SQL, State, Caching
 ![](Start/Capture3.PNG)
 
 ### DESCRIPTION
