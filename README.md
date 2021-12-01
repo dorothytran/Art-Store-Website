@@ -1,12 +1,11 @@
 # Art-Web-Store
 
-SYSC4504 Assignment 3: PHP, SQL, State, Caching
+###SYSC4504 Assignment 3: PHP, SQL, State, Caching
 ===============================================
 Contact Information:
 Name: Dorothy Tran 
 Student ID: 101141902
 
-===========
 DESCRIPTION
 ===========
 This simple art store web application uses server-side programming with PHP, SQL, State Management, and Caching
@@ -28,7 +27,6 @@ header.inc.php
 sql-database.inc.php
 ----------------------------------
 
-============
 INSTALLATION
 ============
 To successfully run the program, the user must have access to XAMPP & Memcached on a Windows/MacOS.
@@ -40,7 +38,6 @@ To successfully run the program, the user must have access to XAMPP & Memcached 
 	- Password (use text field): mypassword
 	- Re-Type: mypassword
 
-============
 USAGE
 ============
 1. Move the downloaded file into the directory path: C:\xampp\htdocs for the program to run.
@@ -61,11 +58,9 @@ browse-paintings.php
 
 
 - When the single painting display appears, users may view the title of the painting, artist, overall reviews, details, the museum it is placed in, the genre, the subject, the price and features of the painting.
-- 
 	- click on the actual painting 
 	- add to favorites
 
-============
 LICENSE
 ============
 Copyright 2021 Dorothy Tran. All rights reserved.
