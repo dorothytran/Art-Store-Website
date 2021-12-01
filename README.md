@@ -1,7 +1,7 @@
 # Art-Web-Store
 
 ## SYSC4504 Assignment 3: PHP, SQL, State, Caching
-
+![](Start/Capture3.PNG)
 Contact Information:
 Name: Dorothy Tran 
 Student ID: 101141902
