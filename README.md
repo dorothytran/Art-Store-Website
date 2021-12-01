@@ -2,23 +2,23 @@
 ## PHP, SQL, State Management & Caching
 ![](Start/Capture3.PNG)
 
-### DESCRIPTION
-This simple art store web application uses server-side programming with PHP, SQL, State Management, and Caching
+## DESCRIPTION
+This simple art store website uses server-side programming with PHP, SQL, State Management, and Caching to create a web art store to display various paintings from around the world. The website uses PHP and SQL to populate the website with paintings while giving functionality to the filter drop-down menus, state management to allow users to select their favourite paintings when clicking on a button, and caching to store data.
 
-The web application consists of various main .php files:
+The website consists of various main .php files:
 * addToFavorites.php
 * browse-paintings.php
 * remove-favorites.php
 * single-painting.php
 * view-favorites.php
 
-The web application is supported by various include files in the includes folder:
+The website is supported by various include files in the includes folder:
 * art-classes.php
 * config.inc.php
 * header.inc.php
 * sql-database.inc.php
 
-### INSTALLATION
+## INSTALLATION
 To successfully run the program, the user must have access to XAMPP & Memcached on a Windows/MacOS.
 1. Download memcached and XAMPP onto your computer.
 2. The user must have the art-small.sql database provided on Brightspace which is imported onto the phpMyAdmin database.
@@ -28,7 +28,7 @@ To successfully run the program, the user must have access to XAMPP & Memcached 
 	- Password (use text field): mypassword
 	- Re-Type: mypassword
 
-### USAGE
+## USAGE
 1. Move the downloaded file into the directory path: C:\xampp\htdocs for the program to run.
 2. After downloading XAMPP successfully onto your computer, open the XAMPP Control Panel.
 3. On the XAMPP Control Panel, select the Start buttons for Apache and MySQL modules to run the program.
@@ -55,5 +55,5 @@ Users can interact with the web application by clicking parts of the web page th
 * By selecting the 'Remove All Favorites' button, all paintings that have been favorited by the user will be removed from the list.
 
 
-### LICENSE
+## LICENSE
 Copyright 2021 Dorothy Tran. All rights reserved.
