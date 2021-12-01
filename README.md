@@ -7,16 +7,16 @@ This simple art store website uses server-side programming with PHP, SQL, State 
 
 The website consists of various main .php files:
 * ```addToFavorites.php```
-* browse-paintings.php
-* remove-favorites.php
-* single-painting.php
-* view-favorites.php
+* ```browse-paintings.php```
+* ```remove-favorites.php```
+* ```single-painting.php```
+* ```view-favorites.php```
 
 The website is supported by various include files in the includes folder:
-* art-classes.php
-* config.inc.php
-* header.inc.php
-* sql-database.inc.php
+* ```art-classes.php```
+* ```config.inc.php```
+* ```header.inc.php```
+* ```sql-database.inc.php```
 
 
 ## INSTALLATION
