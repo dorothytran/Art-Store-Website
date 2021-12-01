@@ -1,5 +1,5 @@
 # Art-Web-Store
-## PHP, SQL, State, Caching
+## PHP, SQL, State Management & Caching
 ![](Start/Capture3.PNG)
 
 ### DESCRIPTION
