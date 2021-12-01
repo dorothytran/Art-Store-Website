@@ -6,7 +6,7 @@
 This simple art store website uses server-side programming with PHP, SQL, State Management, and Caching to create a web art store to display various paintings from around the world. The website uses PHP and SQL to populate the website with paintings while giving functionality to the filter drop-down menus, state management to allow users to select their favourite paintings when clicking on a button, and caching to store data.
 
 The website consists of various main .php files:
-* addToFavorites.php
+* ```addToFavorites.php```
 * browse-paintings.php
 * remove-favorites.php
 * single-painting.php
